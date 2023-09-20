@@ -1,4 +1,4 @@
-### Hi there 👋
+### wassup 🤙
 
 <!--
 **David35k/David35k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
