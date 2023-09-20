@@ -1,4 +1,4 @@
-### wassup 🤙
+# wassup 🤙
 
 ![image]({https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white})
 ![image]({https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white})
